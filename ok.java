@@ -8,7 +8,7 @@ public class ok {
 		System.out.println(Dolphin);
 		int a = 5;
 		for(int i = 0; i < 10; i++) {
-			System.out.println("Dolphins!");
+			System.out.println("Dolphins");
 		}
 	}
 		
